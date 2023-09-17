@@ -1,1 +1,1 @@
-# photo_site
+# My photography website
